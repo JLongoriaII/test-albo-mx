@@ -1,0 +1,8 @@
+Github: https://github.com/JLongoriaII/test-albo-mx
+
+Link servidor: https://test-albo-mx.herokuapp.com/
+     
+     **Servidor free por lo cual entra en modo sleep, para que arranque, hacer peticiones y después de hacerlas, esperar unos 3 min en lo que arranca para que pueda arrojar data
+     **Ejemplo: https://test-albo-mx.herokuapp.com/marvel/colaborators/ironman
+
+Anexo también en el github el archivo de la base de datos (.super_marvel_api.sql)
